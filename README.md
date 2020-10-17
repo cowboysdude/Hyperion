@@ -15,7 +15,7 @@ You can view my YouTube installation video here: https://youtu.be/hpBRKZ_2aYo
 NOTE: if you use multiple Power Supplies, ie 1 Power Supply for the Pi & 1 Power Supply for the LEDs, you will need to connect a GROUND wire from Raspberry Pi (or Arduino) to the LED Light strip. Not doing so will cause a Floating Ground issue that might cause your LEDs to not fuction correctly.
 
 # Raspberry Pi Software
-Software for the Raspberry Pi can be Downloaded here: ( https://github.com/hyperion-project/HyperBian ) Is a ready to use image for your Raspberry Pi. Based on the original Raspberry Pi Foundation image "Raspberry Pi OS Lite". Hyperion is already pre installed.
+Software for the Raspberry Pi can be Downloaded here: ( https://github.com/Hyperion-Project/HyperBian/releases ) Is a ready to use image for your Raspberry Pi. Based on the original Raspberry Pi Foundation image "Raspberry Pi OS Lite". Hyperion is already pre installed. 
 
 To burn the HyperBian image to your SD card you can use Win32 Disk Imager for Windows ( https://sourceforge.net/projects/win32diskimager/ ) or Belena Etcher for Mac ( https://www.balena.io/etcher/ )
 
