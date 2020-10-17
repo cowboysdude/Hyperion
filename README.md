@@ -1,6 +1,8 @@
 # Welcome to my Hyperion Ambient TV Light Project instructions.
 
 You can view my YouTube installation video here: https://youtu.be/hpBRKZ_2aYo
+OR if you just want to use a Raspberry Pi ONLY no Arduino needed you can watch this ->
+https://www.youtube.com/watch?v=urOEHzbV48A
 
 # For this project, we'll be using the following hardware:
 1. Raspberry Pi (any Pi will work) I'll be using a Raspberry Pi Zero W ( https://amzn.to/3i3TfcM ). This project will require the Pi to talk to your home network (WiFi), so we need a Pi that has network capabilities.
